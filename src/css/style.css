@@ -56,3 +56,43 @@ img.img-logo {
     border-radius: 20px;
     padding: 5px 20px;
 }
+
+.titulo-principal {
+    color: #6319A6;
+    font-weight: 700;
+    margin-top: 140px;
+}
+
+.paragrafo-principal {
+    color: #38145c;
+}
+
+.btn-trial {
+    font-weight: 600;
+    background-color: #33DFF9;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 8px 25px;
+}
+
+.card {
+    max-width: 18rem;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+}
+
+.titulo-card {
+    text-align: center;
+    color: #38145c;
+    font-weight: 700;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+.texto-card {
+    text-align: center;
+    color: #5f3a83;
+    font-size: 0.8em;
+    margin-top: -5px;
+}
